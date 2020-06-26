@@ -5,3 +5,4 @@ Now lets write some plain text for the character without any special formatting 
 * character traits 2
 * character traits 3
 * character traits 4
+> This is my quote
