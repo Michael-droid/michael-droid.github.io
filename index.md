@@ -5,5 +5,8 @@ Now lets write some plain text for the character without any special formatting 
 * character traits 2
 * character traits 3
 * character traits 4
+Hier kommt ein Zitat:
 > This is my quote
-<img src=https://cdn.pixabay.com/photo/2020/05/26/13/22/puffins-5223057_960_720.jpg/>
+
+
+<img src="https://cdn.pixabay.com/photo/2020/05/26/13/22/puffins-5223057_960_720.jpg" width="100%"/>
